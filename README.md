@@ -1,5 +1,3 @@
-Exercise 01 -- Success!
-Check out my Personal Github account: <https://github.com/JustinHindiPaasa> (Make sure this is a clickable link)
 <h1 align="center">Hi 👋, I'm Justin Andrei R. Ibanez</h1>
 <h3 align="center">3rd year BS Computer Science Student</h3>
 
