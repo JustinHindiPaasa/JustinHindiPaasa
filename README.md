@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justin Andrei R. Ibanez</h1>
-<h3 align="center">3rd year BS Computer Science Student</h3>
+<h3 align="center">4th year BS Computer Science Student</h3>
 
 - 🔭 I’m currently working on [N/A](N/A)
 
